@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woofsort/static/css/main.b530d199.css",
+    "main.js": "/woofsort/static/js/main.e71301a7.js",
+    "index.html": "/woofsort/index.html",
+    "main.b530d199.css.map": "/woofsort/static/css/main.b530d199.css.map",
+    "main.e71301a7.js.map": "/woofsort/static/js/main.e71301a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b530d199.css",
+    "static/js/main.e71301a7.js"
+  ]
+}
